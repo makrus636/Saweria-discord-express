@@ -13,7 +13,6 @@ const client = new Client({ intents: [
 
 const CLIENT_ID = process.env.CLIENT_ID;
 const TOKEN = process.env.DISCORD_TOKEN;
-const GUILD_ID = process.env.GUILD_ID;
 const CHANNEL_ID = '1561467400254128259';
 const host = '0.0.0.0';
 const port = 3000;
